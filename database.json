@@ -3,7 +3,6 @@
     {
       "id": 1,
       "firstName": "Administrador",
-      "lastName": "",
       "username": "admin",
       "email": "admin@gmail.com",
       "password": "admin",
@@ -14,7 +13,6 @@
     {
       "id": 2,
       "firstName": "Alberta",
-      "lastName": "Farncomb",
       "username": "afarncomb1",
       "email": "afarncomb1@liveinternet.ru",
       "password": "FfshsAlZ",
@@ -25,7 +23,6 @@
     {
       "id": 3,
       "firstName": "Kizzie",
-      "lastName": "Shama",
       "username": "kshama2",
       "email": "kshama2@prlog.org",
       "password": "kjU6qK1Bm",
