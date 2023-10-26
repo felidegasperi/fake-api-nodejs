@@ -32,6 +32,17 @@
       "type": "client",
       "createdAt": 1615745961000,
       "modifiedAt": 1615976361000
+    },
+
+    {
+      "id": 4,
+      "firstName": "",
+      "username": "alvaro",
+      "email": "johansenalvaro@gmail.com",
+      "password": "123456789",
+      "type": "client",
+      "createdAt": 1698285643115,
+      "modifiedAt": 1698285643115
     }
   ],
   "products": [
