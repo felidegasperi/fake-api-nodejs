@@ -6,6 +6,7 @@
       "email": "admin@gmail.com",
       "password": "admin",
       "type": "superAdmin",
+      "isActive":true,
       "createdAt": 1609483221000,
       "modifiedAt": 1609483221000
     },
@@ -15,6 +16,7 @@
       "email": "afarncomb1@liveinternet.ru",
       "password": "FfshsAlZ",
       "type": "owner",
+      "isActive":true,
       "createdAt": 1617440961000,
       "modifiedAt": 1618301961000
     },
@@ -24,18 +26,49 @@
       "email": "kshama2@prlog.org",
       "password": "kjU6qK1Bm",
       "type": "client",
+      "isActive":true,
       "createdAt": 1615745961000,
       "modifiedAt": 1615976361000
     },
-
     {
       "id": 4,
       "username": "alvaro",
       "email": "johansenalvaro@gmail.com",
       "password": "123456789",
       "type": "client",
+      "isActive": false,
       "createdAt": 1698285643115,
       "modifiedAt": 1698285643115
+    },
+    {
+      "id": 5,
+      "username": "felipe",
+      "email": "felipe@gmail.com",
+      "password": "123456789",
+      "type": "client",
+      "isActive":true,
+      "createdAt": 1699293390883,
+      "modifiedAt": 1699293390883
+    },
+    {
+      "id": 6,
+      "username": "juan",
+      "email": "juan@yahoo.com",
+      "password": "987654321",
+      "type": "client",
+      "isActive":true,
+      "createdAt": 1699293510388,
+      "modifiedAt": 1699293510388
+    },
+    {
+      "id": 7,
+      "username": "anashe",
+      "email": "johansenalvaro7@gmail.com",
+      "password": "123456789",
+      "type": "client",
+      "isActive":true,
+      "createdAt": 1699294464406,
+      "modifiedAt": 1699294464406
     }
   ],
   "products": [
