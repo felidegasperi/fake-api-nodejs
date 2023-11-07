@@ -74,7 +74,7 @@
   "products": [
     {
       "id": 1,
-      "photo":"https://d22fxaf9t8d39k.cloudfront.net/ba1e77d8d438601b898ab1f8395f70d19a15ddbe5b9c202d0eaa4e1b893dd4f619762.jpeg",
+      
       "name": "Mate Imperial",
       "price": 442,
       "type": "mate",
@@ -83,8 +83,7 @@
     },
     {
       "id": 2,
-      "photo":"https://d22fxaf9t8d39k.cloudfront.net/ba1e77d8d438601b898ab1f8395f70d19a15ddbe5b9c202d0eaa4e1b893dd4f619762.jpeg",
-      "name": "Grapes - Black",
+      "name": "mate criollo",
       "price": 893,
       "type": "mate",
       "createdAt": 1615796160000,
@@ -92,7 +91,7 @@
     },
     {
       "id": 3,
-      "photo":"https://d22fxaf9t8d39k.cloudfront.net/ba1e77d8d438601b898ab1f8395f70d19a15ddbe5b9c202d0eaa4e1b893dd4f619762.jpeg",
+      
       "name": "mate camionero",
       "price": 693,
       "type": "mate",
