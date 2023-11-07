@@ -6,7 +6,7 @@
       "email": "admin@gmail.com",
       "password": "admin",
       "type": "superAdmin",
-      "isActive":true,
+      "isActive": true,
       "createdAt": 1609483221000,
       "modifiedAt": 1609483221000
     },
@@ -16,7 +16,7 @@
       "email": "afarncomb1@liveinternet.ru",
       "password": "FfshsAlZ",
       "type": "owner",
-      "isActive":true,
+      "isActive": true,
       "createdAt": 1617440961000,
       "modifiedAt": 1618301961000
     },
@@ -26,7 +26,7 @@
       "email": "kshama2@prlog.org",
       "password": "kjU6qK1Bm",
       "type": "client",
-      "isActive":true,
+      "isActive": true,
       "createdAt": 1615745961000,
       "modifiedAt": 1615976361000
     },
@@ -46,7 +46,7 @@
       "email": "felipe@gmail.com",
       "password": "123456789",
       "type": "client",
-      "isActive":true,
+      "isActive": true,
       "createdAt": 1699293390883,
       "modifiedAt": 1699293390883
     },
@@ -56,7 +56,7 @@
       "email": "juan@yahoo.com",
       "password": "987654321",
       "type": "client",
-      "isActive":true,
+      "isActive": true,
       "createdAt": 1699293510388,
       "modifiedAt": 1699293510388
     },
@@ -66,7 +66,7 @@
       "email": "johansenalvaro7@gmail.com",
       "password": "123456789",
       "type": "client",
-      "isActive":true,
+      "isActive": true,
       "createdAt": 1699294464406,
       "modifiedAt": 1699294464406
     }
@@ -74,6 +74,7 @@
   "products": [
     {
       "id": 1,
+      "photo":"https://d22fxaf9t8d39k.cloudfront.net/ba1e77d8d438601b898ab1f8395f70d19a15ddbe5b9c202d0eaa4e1b893dd4f619762.jpeg",
       "name": "Mate Imperial",
       "price": 442,
       "type": "mate",
@@ -82,6 +83,7 @@
     },
     {
       "id": 2,
+      "photo":"https://d22fxaf9t8d39k.cloudfront.net/ba1e77d8d438601b898ab1f8395f70d19a15ddbe5b9c202d0eaa4e1b893dd4f619762.jpeg",
       "name": "Grapes - Black",
       "price": 893,
       "type": "mate",
@@ -90,7 +92,8 @@
     },
     {
       "id": 3,
-      "name": "Nantucket - 518ml",
+      "photo":"https://d22fxaf9t8d39k.cloudfront.net/ba1e77d8d438601b898ab1f8395f70d19a15ddbe5b9c202d0eaa4e1b893dd4f619762.jpeg",
+      "name": "mate camionero",
       "price": 693,
       "type": "mate",
       "createdAt": 1614190320000,
@@ -98,7 +101,7 @@
     },
     {
       "id": 4,
-      "name": "Onions - White",
+      "name": "Termo media manija",
       "price": 472,
       "type": "termo",
       "createdAt": 1609751340000,
@@ -106,7 +109,7 @@
     },
     {
       "id": 5,
-      "name": "Lamb - Whole, Fresh",
+      "name": "Termo stanley",
       "price": 157,
       "type": "termo",
       "createdAt": 1620154080000,
@@ -114,7 +117,7 @@
     },
     {
       "id": 6,
-      "name": "Carrots - Purple, Organic",
+      "name": "Termo lumilagro",
       "price": 816,
       "type": "termo",
       "createdAt": 1619270940000,
@@ -122,7 +125,7 @@
     },
     {
       "id": 7,
-      "name": "Bag - Regular Kraft 20 Lb",
+      "name": "Bombillon alpaca",
       "price": 157,
       "type": "bombilla",
       "createdAt": 1614098400000,
@@ -130,7 +133,7 @@
     },
     {
       "id": 8,
-      "name": "Flour - Bran, Red",
+      "name": "Bombillon ",
       "price": 970,
       "type": "bombilla",
       "createdAt": 1617954000000,
@@ -138,11 +141,19 @@
     },
     {
       "id": 9,
-      "name": "Bread - Bistro Sour",
+      "name": "bombilla bronce",
       "price": 112,
       "type": "bombilla",
       "createdAt": 1612357500000,
       "modifiedAt": 1614956760000
+    },
+    {
+      "id": 10,
+      "name": "mate imperial",
+      "type": "mate",
+      "price": "773",
+      "createdAt": 1699386907190,
+      "modifiedAt": 1699386907190
     }
   ]
 }
