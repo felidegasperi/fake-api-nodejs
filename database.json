@@ -25,59 +25,10 @@
       "username": "Felipe",
       "email": "felipe2@gmail.com",
       "password": "12345678",
-      "type": "owner",
+      "type": "client",
       "isActive": true,
       "createdAt": 1615745961000,
       "modifiedAt": 1615976361000
-    },
-    {
-      "id": 4,
-      "username": "alvaro",
-      "email": "johansenalvaro@gmail.com",
-      "password": "123456789",
-      "type": "client",
-      "isActive": false,
-      "createdAt": 1698285643115,
-      "modifiedAt": 1698285643115
-    },
-    {
-      "id": 5,
-      "username": "felipe",
-      "email": "felipe@gmail.com",
-      "password": "123456789",
-      "type": "client",
-      "isActive": true,
-      "createdAt": 1699293390883,
-      "modifiedAt": 1699293390883
-    },
-    {
-      "id": 6,
-      "username": "juan",
-      "email": "juan@yahoo.com",
-      "password": "987654321",
-      "type": "client",
-      "isActive": true,
-      "createdAt": 1699293510388,
-      "modifiedAt": 1699293510388
-    },
-    {
-      "id": 7,
-      "username": "alvaro-client",
-      "email": "johansenalvaro7@gmail.com",
-      "password": "123456789",
-      "type": "client",
-      "isActive": true,
-      "createdAt": 1699294464406,
-      "modifiedAt": 1699294464406
-    },
-    {
-      "id": 8,
-      "username": "juan",
-      "email": "sad",
-      "password": "123456789",
-      "type": "client",
-      "createdAt": 1699889406379,
-      "modifiedAt": 1699889406379
     }
   ],
   "products": [
