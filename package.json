@@ -1,6 +1,9 @@
 {
   "name": "fake-api-nodejs",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
   "description": "Fake API using NodeJS + JSON Server + Socket.IO + GraphQL",
   "type": "module",
   "exports": "./server.js",
