@@ -105,5 +105,37 @@
       "modifiedAt": 1614956760000
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "id": 1,
+      "email": "felipe2@gmail.com",
+      "cart": [
+        {
+          "productId": 2,
+          "productName": "mate criollo",
+          "productPrice": 893,
+          "quantityProduct": 1,
+          "subTotalPrice": 893
+        },
+        {
+          "productId": 3,
+          "productName": "mate camionero",
+          "productPrice": 693,
+          "quantityProduct": 1,
+          "subTotalPrice": 693
+        },
+        {
+          "productId": 4,
+          "productName": "Termo media manija",
+          "productPrice": 472,
+          "quantityProduct": 1,
+          "subTotalPrice": 472
+        }
+      ],
+      "totalPrice": 2058,
+      "status": false,
+      "createdAt": 1700932279655,
+      "modifiedAt": 1700932279655
+    }
+  ]
 }
